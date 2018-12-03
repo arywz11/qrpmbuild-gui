@@ -19,5 +19,5 @@ It's very simple and easy to use,and could pack binary to *.rpm at now.
     ![Alt text](https://gitee.com/whiteline/qrpmbuild-gui/raw/master/screenshot/qrpmbuild-gui-rpminfo.png)
 
 
-[git@gitee.com:whiteline/qrpmbuild-gui.git](git@gitee.com:whiteline/qrpmbuild-gui.git)
+[https://gitee.com/whiteline/qrpmbuild-gui.git](https://gitee.com/whiteline/qrpmbuild-gui.git)
 
