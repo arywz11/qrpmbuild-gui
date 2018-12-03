@@ -4,7 +4,7 @@ qrpmbuild-gui is used to generate rpm binary package.
 It's very simple and easy to use,and could pack binary to *.rpm at now.
 
 #Platform:
-    Linux, Qt5(what I have tested is openSUSE-Leap-15.0, Qt5.11)
+    Linux, Qt5(what I have tested is openSUSE-Leap-15.0, Qt5.9.6)
 
 #How to use:
 1. Download the source code, compile and run

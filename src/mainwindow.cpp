@@ -17,7 +17,7 @@ void MainWindow::on_pushButton_addFile_clicked()
 {
     QString fileName = QFileDialog::getOpenFileName(this, tr("Open File"),
                                                       QDir::homePath(),
-                                                      tr("* (*.*)"));
+                                                      tr("* (*)"));
 
     if (fileName.length() > 0) {
         QTableWidgetItem* item = new QTableWidgetItem(fileName);
