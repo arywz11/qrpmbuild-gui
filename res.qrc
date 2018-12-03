@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>template/rpmbuild-spec.template</file>
+        <file>img/qrpmbuild-gui.png</file>
+    </qresource>
+</RCC>
