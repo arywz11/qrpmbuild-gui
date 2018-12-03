@@ -16,4 +16,4 @@ It's very simple and easy to use,and could pack binary to *.rpm at now.
     ![Alt text](https://github.com/FANCY0047/qrpmbuild-gui/blob/master/screenshot/qrpmbuild-gui-generate.png)    
     4. click button(Open) to open the folder which contains your RPM package file
     5. run "$rpm -qi [your-package-name].rpm", you can see the infomation of the RPM package file you have just generated
-    ![Alt text](https://github.com/FANCY0047/qrpmbuild-gui//master/screenshot/qrpmbuild-gui-rpminfo.png)
+    ![Alt text](https://github.com/FANCY0047/qrpmbuild-gui/blob/master/screenshot/qrpmbuild-gui-rpminfo.png)
